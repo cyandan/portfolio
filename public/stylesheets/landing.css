@@ -1,0 +1,22 @@
+#header{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.btn{
+	width: 250px;
+}
+
+#info{
+	width: 50%;
+	font-size: 16px;
+	color: white;
+}
+
+#info a{
+	color: orange;
+}
+
+body{
+	background: #58606d;
+}

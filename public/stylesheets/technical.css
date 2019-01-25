@@ -1,0 +1,27 @@
+section header{
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+li{
+	margin-bottom: 15px;
+}
+main{
+	margin-top: 80px;
+}
+.main-section{
+	padding-top: 60px;
+	margin-top: -60px;
+	margin-bottom: 30px;
+}
+pre{
+	background-color: lightgray;
+	border: 0px solid;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+.dropdown{
+	padding-right: 40px;
+}
