@@ -6,7 +6,7 @@ var router  = express.Router();
     
 // ROUTES
 router.get("/", function(req, res){
-    res.render("landing.ejs");
+    res.render("index.ejs");
 });
 
 router.get("/company", function(req, res){
